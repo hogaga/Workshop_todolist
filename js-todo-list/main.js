@@ -8,5 +8,5 @@ document.addEventListener('DOMContentLoaded', function() {
     e.addEventListener('click', function(e){
       e.target.parentElement.remove()
     })
-  }
+  })
 })
